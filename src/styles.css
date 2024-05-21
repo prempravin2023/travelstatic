@@ -691,12 +691,12 @@ font-size: 10px;
     }
     
 }
-@media  screen and (max-width:300px){
+@media  screen and (max-width:376px){
 
      .ticket{
 		
 		text-align: center;
-		font-size: 8px;
+		font-size: 10px;
 		
 	 }
 	 .last{
